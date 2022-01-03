@@ -1,0 +1,10 @@
+export const BUTTON_1 = "ONE QUESTION";
+export const BUTTON_2 = "TWO QUESTIONS";
+export const BUTTON_3 = "TREE QUESTIONS";
+export const BUTTON_4 = "FOUR QUESTIONS";
+export const BUTTON_5 = "FIVE QUESTIONS";
+export const BUTTON_6 = "SIX QUESTIONS";
+export const BUTTON_7 = "SEVEN QUESTIONS";
+export const BUTTON_8 = "EIGHT QUESTIONS";
+export const BUTTON_9 = "NINE QUESTIONS";
+export const BUTTON_10 = "TEN QUESTIONS";
